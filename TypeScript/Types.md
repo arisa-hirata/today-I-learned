@@ -20,3 +20,5 @@ Easy way to refer to the different properties + functions that a value has.
 - Code we add to tell TypeScript what type of value a variable will refer to
   **Type Inference**
 - TypeScript tries to figure out what types of value a variable referes to
+
+<img width="978" alt="Screen Shot 2019-11-25 at 10 26 13 AM" src="https://user-images.githubusercontent.com/32582917/69567562-74494700-0f6e-11ea-9997-97ab2f69a177.png">
