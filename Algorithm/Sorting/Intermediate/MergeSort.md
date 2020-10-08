@@ -1,4 +1,4 @@
-## Merge Sort
+# Merge Sort
 
 - It's a combination of two things - merging and sorting!
 - Exploits the fact that arrays of 0 or 1 element are always sorted.
@@ -90,3 +90,5 @@ function mergeSort(arr){
 mergeSort([10,24,76,73])
 
 ```
+
+### 
