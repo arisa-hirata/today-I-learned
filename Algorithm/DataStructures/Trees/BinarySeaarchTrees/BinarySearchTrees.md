@@ -184,6 +184,7 @@ tree.insert(2)
 tree.insert(16)
 tree.insert(7)
 ```
+
 ## Big O of BST
 Insertion - __O(log n)__
 Searching - __O(log n)__
