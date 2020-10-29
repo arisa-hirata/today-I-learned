@@ -16,3 +16,13 @@ In a __MaxBinaryHeap__, parent nodes are always larger than child nodes. In a __
 Binary Heaps are used to implement Priority Queues, which are __very__ commonly used data structures  
 
 They are also used quite a bit, with __graph traversal__ algorithms
+
+## Big O of Binary Heaps
+Insertion - __O(log N)__  
+Removal - __O(log N)__  
+Search - __O(N)__
+
+## RECAP
+- Binary Heaps are very useful data structures for sorting, and implementing other data structures like priority queues
+- Binary Heaps are either MaxBinaryHeaps or MinBinaryHeaps with parents either being smaller or larger than their children
+- With just a little bit of math, we can represent heaps using arrays!
