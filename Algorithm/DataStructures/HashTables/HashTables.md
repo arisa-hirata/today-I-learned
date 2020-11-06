@@ -35,3 +35,19 @@ class HashTable {
   }
 }
 ```
+
+
+## BIG O of HASH TABLES
+(average case)  
+- Insert: O(1)
+- Deletion: O(1)
+- Access: O(1)
+
+## Recap
+- Hash tables are collections of key-value pairs
+- Hash tables can find values quickly given a key
+- Hash tables can add new key-values quickly
+- Hash tables store data in a large array, and work by _hashing_ the keys
+- A good hash should be fast, distribute keys uniformly, and be deterministic
+- Separate chaining and linear probing are two strategies used to deal with two keys that hash to the same index
+- When in doubt, use a hash table!
